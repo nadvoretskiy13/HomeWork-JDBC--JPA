@@ -1,2 +1,0 @@
-# HomeWork-JDBC--JPA
-
